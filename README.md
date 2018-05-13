@@ -10,7 +10,7 @@ So I figured I will try where possible to create informative infographics and di
 
 ## Articles
 
-* [Arma 3 Split Terrain Addon Configuration](../blob/master/docs/PDF/Arma3_-_PDrive_-_DirectoryAndConfigLayoutForSplitTerrainAddons.pdf)
+* [Arma 3 Split Terrain Addon Configuration](../master/docs/PDF/Arma3_-_PDrive_-_DirectoryAndConfigLayoutForSplitTerrainAddons.pdf)
 
 
 ## Installation
