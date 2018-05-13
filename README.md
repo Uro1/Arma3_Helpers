@@ -1,4 +1,4 @@
-#Arma 3 Helper Documentation
+# Arma 3 Helper Documentation
 
 ## Synopsis
 
