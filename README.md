@@ -20,7 +20,8 @@ I am not liable for your own stupidity, always backup your data regularly!
 ## Articles
 
 * [Arma 3 Split Terrain Addon Configuration](../master/docs/PDF/Arma3_-_PDrive_-_DirectoryAndConfigLayoutForSplitTerrainAddons.pdf)
-
+*
+*
 
 ## Installation
 
