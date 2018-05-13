@@ -13,6 +13,7 @@ So I figured I will try where possible to create informative infographics and di
 I am in no way affiliated with Bohemia Interactive nor the Arma game franchise.  
 
 If in doubt of any changes you are about to make - backup!
+
 I am not liable for your own stupidity, always backup your data regularly!
 
 
