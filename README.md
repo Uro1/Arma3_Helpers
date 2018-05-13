@@ -23,7 +23,7 @@ I am not liable for your own stupidity, always backup your data regularly!
 
 ## Installation
 
-None, either download the linked documentats or follow the code examples contained in this repository.
+None, either download the linked documents or follow the code examples contained in this repository.
 
 
 ## Contributors
